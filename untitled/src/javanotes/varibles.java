@@ -2,12 +2,12 @@ package javanotes;
 
 public class varibles {
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 
-            byte moveleftt;// declarando la variable
+        byte moveleftt;// declarando la variable
 
 
-            moveleftt = 127;
+        moveleftt = 127;
 
             short moveleftt2 = (short) moveleftt;
 
